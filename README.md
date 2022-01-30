@@ -13,7 +13,7 @@ Prerequisites:
 
 2. Check out the repository:
 
-* git clone https://github.com/manosuman/crud.git
+* git clone https://github.com/ManoharSuman/weblog.git
 
 3. Create and setup the database
 
